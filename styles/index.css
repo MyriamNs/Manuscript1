@@ -1,2 +1,72 @@
 @import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@700&family=Baskervville&family=Libre+Baskerville:wght@700&display=swap');
+
 body {font-family: 'Baskervville', serif ;}
+
+p {line-height: 2; 
+margin-top: 48px;
+margin-bottom: 48px;
+max-width: 90ch;
+margin-left: auto;
+margin-right: auto;}
+
+blockquote {max-width: 90ch;
+margin-left: auto;
+margin-right: auto;}
+
+main {padding: 48px;}
+
+.righta {margin-left: auto;}
+
+
+h1 {margin-left: auto;}
+
+h3 {margin-left:auto;}
+
+
+.peach1 {background-color: #dd8d73;
+    opacity: 20;}
+                
+.peach2 {background-color: #dd8d73;
+                opacity: 40;} 
+                
+.peach3 {background-color: #dd8d73;
+                opacity: 60;}
+                
+.peach4 {background-color: #dd8d73;
+                opacity: 80;}
+                
+.peach5 {background-color: #dd8d73; opacity: 100;}
+
+
+.lbtitle {font-family: 'Libre Baskerville',serif;
+font-weight: bold;
+font-size: 36px;
+margin-left: auto; 
+margin-right: auto;}
+
+
+.areftitle {font-family: "Aref Ruqaa Ink",serif;
+font-size: 40px;
+font-weight: bold;
+margin-top: 15px;
+margin-bottom: 15px;}
+
+.areftitle2 {font-family: "Aref Ruqaa Ink",serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 15px;}
+    
+
+
+ .firstp {font-family: 'Libre Baskerville',serif;
+font-weight: bold;
+ font-size: 20px;
+color: #dd8d73; 
+margin-left: auto;
+margin-right: auto;}
+        
+
+.responsem {background-color: #ffedbf;
+font-style: italic;}
+        
